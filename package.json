@@ -1,0 +1,26 @@
+{
+  "name": "whatismoviebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "node-telegram-bot-api": "^0.23.3",
+    "request": "^2.72.0",
+    "imagesnap": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/localhostech/whatismoviebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/localhostech/whatismoviebot/issues"
+  },
+  "homepage": "https://github.com/localhostech/whatismoviebot#readme"
+}
